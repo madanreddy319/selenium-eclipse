@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-13T22:24:00 IST" name="Default suite" finished-at="2020-06-13T22:24:36 IST" duration-ms="35623">
+    <groups>
+      <group name="first">
+        <method signature="Page2.fun1()[pri:0, instance:testing_dependency_2.Page2@6497b078]" name="fun1" class="testing_dependency_2.Page2"/>
+      </group> <!-- first -->
+      <group name="second">
+        <method signature="Page2.fun3()[pri:0, instance:testing_dependency_2.Page2@6497b078]" name="fun3" class="testing_dependency_2.Page2"/>
+      </group> <!-- second -->
+    </groups>
+    <test started-at="2020-06-13T22:24:00 IST" name="Default test" finished-at="2020-06-13T22:24:36 IST" duration-ms="35623">
+      <class name="testing_dependency_2.Page2">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testing_dependency_2.Page2@6497b078]" started-at="2020-06-13T22:24:00 IST" name="setUp" finished-at="2020-06-13T22:24:02 IST" duration-ms="2123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fun1()[pri:0, instance:testing_dependency_2.Page2@6497b078]" started-at="2020-06-13T22:24:02 IST" name="fun1" finished-at="2020-06-13T22:24:12 IST" duration-ms="9326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testing_dependency_2.Page2@6497b078]" started-at="2020-06-13T22:24:12 IST" name="teardown" finished-at="2020-06-13T22:24:12 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testing_dependency_2.Page2@6497b078]" started-at="2020-06-13T22:24:12 IST" name="setUp" finished-at="2020-06-13T22:24:13 IST" duration-ms="1206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fun2()[pri:0, instance:testing_dependency_2.Page2@6497b078]" started-at="2020-06-13T22:24:13 IST" name="fun2" finished-at="2020-06-13T22:24:22 IST" duration-ms="8711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun2 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testing_dependency_2.Page2@6497b078]" started-at="2020-06-13T22:24:22 IST" name="teardown" finished-at="2020-06-13T22:24:22 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testing_dependency_2.Page2@6497b078]" started-at="2020-06-13T22:24:22 IST" name="setUp" finished-at="2020-06-13T22:24:23 IST" duration-ms="1275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fun3()[pri:0, instance:testing_dependency_2.Page2@6497b078]" started-at="2020-06-13T22:24:23 IST" name="fun3" finished-at="2020-06-13T22:24:36 IST" duration-ms="12490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun3 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testing_dependency_2.Page2@6497b078]" started-at="2020-06-13T22:24:36 IST" name="teardown" finished-at="2020-06-13T22:24:36 IST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testing_dependency_2.Page2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
